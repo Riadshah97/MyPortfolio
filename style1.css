@@ -1,0 +1,157 @@
+.image{
+
+	max-width: 50%;
+	float: left;
+	padding-right: 1%;
+}
+.image img{
+	max-width: 60%;
+	max-height :450px
+}
+.Introduction h4{
+	text-transform:: uppercase;
+	font-size: 20px;
+	margin: 0;
+	color:: #ffb400;
+	padding-bottom: 20px;
+}
+.Introduction h1{
+	color:: #ffb400;
+	text-transform: uppercase;
+	font-size: 42px;
+	margin: 0;
+}
+
+
+.information{}
+.info-head{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.info-head h2{
+	margin: 0;
+	font-size: 45px;
+}
+
+.My-information{
+	width: 55%;
+	float:   center;
+	
+}
+.My-information table{
+	padding-bottom: 30px;
+}
+.My-information table th{
+	text-align: center;
+	font-size: 26px;
+	padding-bottom: 20px;
+}
+.My-information table tr{}
+.My-information table td{
+	color: #fffffc2;
+    padding-right: 10px;
+	padding-bottom: 20px;
+}
+.My-information table td span{
+	color: #fff400;
+}
+
+
+
+.education-head{
+	text-align: center;
+	padding-bottom: 8px;
+}
+.education-head h1{
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0;
+}
+.education{
+	padding-bottom: 45px;
+}
+
+
+.hobby-head{
+	text-align: center;
+}
+.hobby-head h1{
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+}
+.hobby{
+	width: 25%;
+	float: left;
+	padding: 25px 25px;
+	position: relative;
+	text-align: center;
+}
+
+.hobby img{
+	height: 200px;
+	width: 250px;
+}
+
+.hobby p{
+    font-size: 25px;
+	font-weight: 700;
+    color: #ffe400;	
+	
+}
+
+
+body{
+	
+	background:  #ffb480;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
